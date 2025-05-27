@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelkarim Moussi</h1>
 <h3 align="center">Full Stack web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelkarim-moussi" alt="abdelkarim-moussi" /></a> </p>
-
 - 📫 How to reach me **https://www.linkedin.com/in/moussi-abdelkarim/**
 
 <h3 align="left">Connect with me:</h3>
